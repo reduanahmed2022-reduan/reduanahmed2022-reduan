@@ -43,9 +43,4 @@ I am a passionate Full-Stack Web Developer dedicated to building efficient, mode
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/reduan-ahmed-695824443" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+
